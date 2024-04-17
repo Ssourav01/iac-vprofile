@@ -10,4 +10,3 @@ variable "clusterName" {
   default     = "vprofile-eks"
 }
 
-# Single line comment
